@@ -1,0 +1,9 @@
+.Navigation {
+  background-color: coral;
+  border-bottom: 2px solid royalblue;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  color: green;
+}
